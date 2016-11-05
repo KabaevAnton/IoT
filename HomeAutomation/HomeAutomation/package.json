@@ -1,0 +1,43 @@
+{
+  "name": "HomeAutomation-app",
+  "version": "0.0.1",
+  "description": "ExpressApp1",
+  "main": "app.js",
+  "author": {
+    "name": "Ajax"
+  },
+  "dependencies": {
+    "@angular/common": "2.0.0-rc.5",
+    "@angular/compiler": "2.0.0-rc.5",
+    "@angular/core": "2.0.0-rc.5",
+    "@angular/forms": "0.3.0",
+    "@angular/http": "2.0.0-rc.5",
+    "@angular/platform-browser": "2.0.0-rc.5",
+    "@angular/platform-browser-dynamic": "2.0.0-rc.5",
+    "@angular/router": "3.0.0-rc.1",
+    "@angular/router-deprecated": "2.0.0-rc.2",
+    "@angular/upgrade": "2.0.0-rc.5",
+    "angular2-in-memory-web-api": "0.0.15",
+    "babel": "^6.5.2",
+    "bootstrap": "^3.3.6",
+    "core-js": "^2.4.0",
+    "express": "3.4.4",
+    "jade": "*",
+    "reflect-metadata": "0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "serialport": "^4.0.1",
+    "stylus": "^0.54.5",
+    "systemjs": "^0.19.29",
+    "traceur": "0.0.107",
+    "zone.js": "0.6.12"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-typescript": "^2.13.6",
+    "gulp-uglify": "^2.0.0",
+    "concurrently": "^2.0.0",
+    "lite-server": "^2.2.0"
+  }
+}
